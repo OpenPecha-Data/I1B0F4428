@@ -1,0 +1,16 @@
+id: I1B0F4428
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 15:18:55.367363
+last_modified: 2023-02-08 15:18:55.367501
+source_metadata:
+  title: Pratyutpannabuddhasamādhisūtra
+  language: bo
+bases:
+  B804:
+    base_file: B804.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
